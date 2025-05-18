@@ -3,3 +3,8 @@ body {
     padding: 0;
     text-align: center;
 }
+
+td {
+    margin: 50px, 20px;
+    background-color: blueviolet;
+}
